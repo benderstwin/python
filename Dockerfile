@@ -1,2 +1,2 @@
 FROM python
-RUN pip3 install discord
+RUN pip3 install discord csv time
